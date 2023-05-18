@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+statsmodels
+scikit-learn
+selenium
+beautifulsoup4
